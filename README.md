@@ -1,6 +1,6 @@
 # Hokkfi V2 Subgraph
 
-[Uniswap](https://Uniswap.org/) is a decentralized protocol for automated token exchange on Ethereum.
+[Hokkfi](https://hokk.finance/) is a decentralized protocol for automated token exchange on Ethereum.
 
 This subgraph dynamically tracks any pair created by the Uniswap factory. It tracks of the current state of Uniswap contracts, and contains derived stats for things like historical data and USD prices.
 
