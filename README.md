@@ -1,4 +1,4 @@
-# Uniswap V2 Subgraph
+# Hokkfi V2 Subgraph
 
 [Uniswap](https://Uniswap.org/) is a decentralized protocol for automated token exchange on Ethereum.
 
